@@ -1,0 +1,93 @@
+Prompt 1:
+Write a C program for a simple 2D graphics editor mini project using graphics.h.
+
+Response:
+A menu-driven graphics editor program in C was generated using graphics.h library with options to draw lines, circles, rectangles, and perform basic screen operations.
+
+--------------------------------------------------
+
+Prompt 2:
+Add options for drawing different shapes like line, rectangle, circle, and ellipse in the graphics editor.
+
+Response:
+The program was updated with separate functions for drawing line, rectangle, circle, and ellipse using graphics.h functions such as line(), rectangle(), circle(), and ellipse().
+
+--------------------------------------------------
+
+Prompt 3:
+Create a menu-driven interface for the graphics editor in C.
+
+Response:
+A switch-case based menu system was generated allowing users to select different drawing options repeatedly until exit.
+
+--------------------------------------------------
+
+Prompt 4:
+How to initialize graphics mode in C using graphics.h?
+
+Response:
+The response explained the use of initgraph(), DETECT driver, graphics mode initialization, and closegraph() function.
+
+--------------------------------------------------
+
+Prompt 5:
+Fix the error "undefined reference to initgraph".
+
+Response:
+The response explained that graphics.h works mainly in Turbo C++ or WinBGIm setup and provided steps to configure graphics libraries properly.
+
+--------------------------------------------------
+
+Prompt 6:
+Add color selection feature in the 2D graphics editor program.
+
+Response:
+The code was modified using setcolor() function to allow users to draw shapes in different colors.
+
+--------------------------------------------------
+
+Prompt 7:
+How to clear the graphics screen in graphics.h?
+
+Response:
+The response explained the use of cleardevice() function to clear the drawing area before redrawing graphics.
+
+--------------------------------------------------
+
+Prompt 8:
+Add user input coordinates for drawing shapes in graphics editor.
+
+Response:
+The program was updated to accept coordinates from the user through scanf() for drawing shapes at custom positions.
+
+--------------------------------------------------
+
+Prompt 9:
+Explain the working of graphics.h functions used in the project.
+
+Response:
+The response explained functions such as initgraph(), line(), circle(), rectangle(), setcolor(), cleardevice(), and closegraph().
+
+--------------------------------------------------
+
+Prompt 10:
+Provide documentation content for a mini project on 2D Graphics Editor in C.
+
+Response:
+The response included abstract, objectives, features, advantages, limitations, and conclusion for the project documentation.
+
+--------------------------------------------------
+
+Prompt 11:
+Give problem statement and abstract for the mini project 2D Graphics Editor using C.
+
+Response:
+A concise problem statement and abstract describing the need for basic computer graphics editing using C programming and graphics.h library were generated.
+
+--------------------------------------------------
+
+Prompt 12:
+How to compile and run graphics.h programs in CodeBlocks or Turbo C++?
+
+Response:
+The response provided setup instructions for Turbo C++, WinBGIm library installation, compiler settings, and execution steps.
